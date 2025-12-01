@@ -8,8 +8,8 @@ Bu proje, kullanıcıların araç modellerini görüntüleyebildiği ve kiralama
 🇬🇧
 This project is a simple and modern car rental interface where users can view vehicle models and get information about rental details.
 
-![Home Preview](./img/screenshots/pc-version.gif)
-![Mobile Preview](./img/screenshots/mobile-version.gif)
+<img src="./img/screenshots/pc-version.gif" alt="Home Preview" width="600">
+<img src="./img/screenshots/mobile-version.gif" alt="Mobile Preview" width="300">
 
 ---
 
