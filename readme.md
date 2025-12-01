@@ -1,16 +1,15 @@
-# Car A Man — Araç Kiralama Sitesi
+# 🇹🇷 Car A Man — Araç Kiralama Sitesi
 
-# Car A Man — Car Rental Website
+# 🇬🇧 Car A Man — Car Rental Website
 
+🇹🇷
 Bu proje, kullanıcıların araç modellerini görüntüleyebildiği ve kiralama işlemleri hakkında bilgi alabildiği basit ve modern bir araç kiralama arayüzüdür.
 
+🇬🇧
 This project is a simple and modern car rental interface where users can view vehicle models and get information about rental details.
-
-
 
 ![Home Preview](./img/screenshots/home.gif)
 ![Mobile Preview](./img/screenshots/mobile.gif)
-
 
 ---
 
