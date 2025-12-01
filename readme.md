@@ -14,22 +14,22 @@ This project is a simple and modern car rental interface where users can view ve
 ---
 
 ## Özellikler / Features
---
+
 - Tamamen frontend — backend bulunmuyor
 - Fully frontend — no backend
---
+
 - HTML & CSS ile geliştirilmiş yapı
 - Structure built with HTML & CSS
---
+
 - Çok az JavaScript ile temel etkileşimler
 - Minimal JavaScript for basic interactions
---
+
 - Bootstrap bileşenleri ile hızlı UI geliştirme
 - Fast UI development using Bootstrap components
---
+
 - Flexbox ve CSS Grid ile düzen kurulumu
 - Layout created using Flexbox and CSS Grid
---
+
 - Responsive & mobile uyumlu tasarım
 - Responsive and mobile-friendly design
 
